@@ -1,0 +1,21 @@
+id;name;firstname;zip;city;birthdate;street;housenr;stateCode;state
+1;ryjqz-name                    ;cfl-firstname                 ;12860;dqo-city                      ;1970/07/29 00:00:00.000;pqtj-street                   ;39;NC;NORTH CAROLINA                          
+2;ahjyq-name                    ;ocz-firstname                 ;10220;vxl-city                      ;1978/02/25 00:00:00.000;lmvl-street                   ;123;AZ;ARIZONA                                 
+3;hyehv-name                    ;rfy-firstname                 ;16920;zdz-city                      ;1962/09/01 00:00:00.000;xzap-street                   ;22;NM;NEW MEXICO                              
+4;nztpz-name                    ;mms-firstname                 ;11000;rtw-city                      ;1978/06/11 00:00:00.000;ijjc-street                   ;44;WA;WASHINGTON                              
+5;yffvw-name                    ;yca-firstname                 ;10220;hpn-city                      ;1982/12/09 00:00:00.000;mtqp-street                   ;13;TX;TEXAS                                   
+6;ixqgc-name                    ;sbd-firstname                 ;17060;xha-city                      ;1978/04/05 00:00:00.000;vkde-street                   ;81;WA;WASHINGTON                              
+7;mmlnq-name                    ;fps-firstname                 ;11420;qxc-city                      ;1958/12/29 00:00:00.000;bzms-street                   ;86;NY;NEW YORK                                
+8;mpptw-name                    ;tiu-firstname                 ;10960;tzm-city                      ;1978/05/31 00:00:00.000;pagk-street                   ;177;IN;INDIANA                                 
+9;mhmcl-name                    ;cap-firstname                 ;11600;yza-city                      ;1950/08/23 00:00:00.000;qenk-street                   ;175;MP;NORTHERN MARIANA ISLANDS                
+10;pozml-name                    ;xio-firstname                 ;16480;iwe-city                      ;1986/01/18 00:00:00.000;wdio-street                   ;129;HI;HAWAII                                  
+11;ojjav-name                    ;pjf-firstname                 ;18900;zcr-city                      ;1954/10/31 00:00:00.000;mnsg-street                   ;76;RI;RHODE ISLAND                            
+12;gjvpk-name                    ;zgu-firstname                 ;17460;btb-city                      ;1967/01/17 00:00:00.000;nmet-street                   ;190;UT;UTAH                                    
+13;sgmdj-name                    ;dez-firstname                 ;16940;lmf-city                      ;1982/04/08 00:00:00.000;mqyv-street                   ;124;AK;ALASKA                                  
+14;jkdgj-name                    ;udl-firstname                 ;17940;uni-city                      ;1970/09/11 00:00:00.000;utty-street                   ;122;NE;NEBRASKA                                
+15;gtrvz-name                    ;jcn-firstname                 ;16500;zie-city                      ;1982/03/26 00:00:00.000;mbxp-street                   ;110;AR;ARKANSAS                                
+16;iogqb-name                    ;eps-firstname                 ;18200;hns-city                      ;1962/04/24 00:00:00.000;ihcs-street                   ;184;NJ;NEW JERSEY                              
+17;ijqpm-name                    ;qqh-firstname                 ;19520;ohi-city                      ;1974/09/09 00:00:00.000;xrwj-street                   ;151;NM;NEW MEXICO                              
+18;mymej-name                    ;zix-firstname                 ;10520;ykc-city                      ;1982/05/15 00:00:00.000;fzqt-street                   ;192;MI;MICHIGAN                                
+19;axbru-name                    ;mjl-firstname                 ;10920;mnx-city                      ;1986/07/31 00:00:00.000;itpg-street                   ;91;WI;WISCONSIN                               
+20;bdjlo-name                    ;kbn-firstname                 ;11420;rfb-city                      ;1982/03/30 00:00:00.000;ojrj-street                   ;11;CA;CALIFORNIA                              
