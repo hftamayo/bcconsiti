@@ -1,0 +1,8 @@
+GUIA 01: TRANSFORMACIONES Y JOBS EN PENTAHO SPOON
+
+ESTUDIANTE: Herbert Fernández Tamayo
+
+1. video tutorial sobre resolucion de la guia y ejecucion de los jobs y transformaciones: https://youtu.be/UUfcs1oHabQ
+
+
+2. archivos fuentes que pueden ser verificados en pentaho: https://drive.google.com/file/d/1ke5ceaX0Z7oEvPGa2NkEgTi6ZjjLuntv/view?usp=drive_link
